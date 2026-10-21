@@ -1,0 +1,4 @@
+LEIA
+streamlit
+spacy
+Pandas
